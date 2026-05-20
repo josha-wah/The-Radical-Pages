@@ -2,11 +2,14 @@
 
 ## Contents
 
+* [Introduction](#introduction)
 * [Ordering Systems](#ordering-systems)
 * [Platforms/ Distributors](#platforms-distributors)
 * [Independents](#independents)
 * [University Publishers](#university-publishers)
 * [Conglomerates/ Multinational Corporations](#conglomerates-multinational-corporations)
+
+## Introduction
 
 The publishing industry is characterised by the selling of information in various forms and typically through one or more intermediaries. In order to navigate the industry then, we must have a sense of the issues associated with these practices, for which Cory Doctorow's concept of "enshittification" may prove a useful starting point. In Doctorow's usage, the term refers to a life-cycle process in which an internet platform progressively takes advantage of its position to exploit sellers and consumers. That is, by luring them in with valuable services, then—once locked-in by the cost of switching providers—defaulting to the bare minimum and harvesting them for profit. This concept can be applied more generally, however, to intermediaries and rentier capitalists across the board. In the publishing industry, practices associated with intellectual property, industry consolidation, and cost-cutting imperatives enable and accelerate this process; which in turn creates all kinds of economic and social problems, such as the homogenisation of content, marginalisation of diverse voices, and enclosure of common-pool resources, etc. In short, it's a giant pile of shit—hence the term: "enshittification".
 
