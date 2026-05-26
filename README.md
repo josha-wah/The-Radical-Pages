@@ -60,7 +60,7 @@ For radicals interfacing with the industry then—be that as authors, consumers,
       <th>Location</th>
       <th>Subsidiaries</th>
       <th>Specialty</th>
-      <th colspan="2">Website/s</th>
+      <th>Website/s</th>
       <th>Notes</th>
     </tr>
   </thead><colgroup><col width="100"><col width="100"><col width="100"><col width="116"><col width="116"><col width="110"><col width="116"></colgroup>
@@ -186,6 +186,39 @@ For radicals interfacing with the industry then—be that as authors, consumers,
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">N/A</td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">N/A</td>
     </tr>
+    <tr style="height: 21px;">
+      <td rowspan="3" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 63px;">Gardners</div></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Eastbourne, UK</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Gardners UK</td>
+      <td rowspan="3" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 63px;">Full-service distribution for publishers and authors.</div></td>
+      <td rowspan="1" colspan="2" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardners.com/" target="_blank">UK Site</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardners.com/Account/LogOn#:~:text=have%20a%20username-,Apply%20for%20an%20account,-Haven%27t%20got%20an" target="_blank">"Apply For An Account"</a></td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Florida, US</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Gardners US</td>
+      <td rowspan="1" colspan="2" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardnersus.com/" target="_blank">US Site</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardnersus.com/#applyforanaccount:~:text=4%20business%20days!-,APPLY%20FOR%20AN%20ACCOUNT,-TODAY" target="_blank">"Apply For An Account"</a></td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Arques, France</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Gardners EU</td>
+      <td rowspan="1" colspan="2" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardnerseu.com/" target="_blank">EU Site</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.gardnerseu.com/Account/LogOn#:~:text=de%20nom%20d%27utilisateur-,Demander%20un%20compte,-Vous%20n%27avez%20pas" target="_blank">"Demander Un Compte"</a></td>
+    </tr>
+    <tr style="height: 21px;">
+      <td rowspan="2" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 42px;">Bookshop.org</div></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">London, UK</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><span style="font-size: 10pt;">Bookshop.org</span><span style="font-size: 10pt;"> UK</span></td>
+      <td rowspan="2" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 42px;">Online bookstore with profit-sharing incentives for independent brick-and-mortar shops and affiliate marketers.</div></td>
+      <td rowspan="2" colspan="2" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 42px;"><span style="font-size: 10pt; text-decoration: underline; text-decoration-skip-ink: none; color: rgb(17, 85, 204);"><a class="in-cell-link" target="_blank" href="https://bookshop.org/">Website</a></span><span style="font-size: 10pt;"> (geo redirects enabled)</span></div></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://uk.bookshop.org/info/about-us" target="_blank">"About Us"</a></td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">New York, US</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><span style="font-size: 10pt;">Bookshop.org</span><span style="font-size: 10pt;"> US</span></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://bookshop.org/info/about-us" target="_blank">"About Us"</a></td>
+    </tr>
   </tbody>
 </table></google-sheets-html-origin>
 
@@ -197,7 +230,7 @@ For radicals interfacing with the industry then—be that as authors, consumers,
       <th>Name</th>
       <th>Specialty</th>
       <th>Location</th>
-      <th>Website/s</th>
+      <th>Website</th>
       <th>Notes</th>
       <th>Third-Parties</th>
     </tr>
@@ -322,6 +355,30 @@ For radicals interfacing with the industry then—be that as authors, consumers,
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.faber.co.uk/" target="_blank">Website</a></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.faber.co.uk/trade-sales/#:~:text=Faber%20%26%20Faber-,Trade%20Sales,-Contact%20Information" target="_blank">"Trade Sales"</a></td>
       <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">HarperCollins</td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Autonomedia</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Radical Left, Autonomism</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">New York, US</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://autonomedia.org/" target="_blank">Website</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">N/A</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">AK Press, PM Press, Turnaround</td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Minor Compositions</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Radical Left, Autonomism</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Colchester, UK</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.minorcompositions.info/" target="_blank">Website</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.minorcompositions.info/?page_id=16#:~:text=Residency-,Ordering,-Minor%20Compositions%20publications" target="_blank">"Ordering"</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">AK Press, Turnaround</td>
+    </tr>
+    <tr style="height: 21px;">
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">OR Books</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Progressive Politics</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">New York, US</td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://orbooks.com/" target="_blank">Website</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; text-decoration: underline; overflow-wrap: break-word; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://orbooks.com/booksellers/#:~:text=Subscribe-,BOOKSELLERS,-FOR%20OR%20BOOKS" target="_blank">"Booksellers"</a></td>
+      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">Ingram (/Consortium)</td>
     </tr>
   </tbody>
 </table></google-sheets-html-origin>
