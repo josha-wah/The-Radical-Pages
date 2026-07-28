@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "freedom-press",
+      "name": "Freedom Press",
+      "section": "Independent publishers",
+      "website": "https://freedompress.org.uk/",
+      "description": "An anarchist publisher, bookshop and newspaper based in London. This is pilot data for testing the WordPress synchronisation path."
+    },
+    {
+      "id": "ak-press",
+      "name": "AK Press",
+      "section": "Independent publishers",
+      "website": "https://www.akpress.org/",
+      "description": "A worker-run publisher and distributor specialising in anarchist and radical literature."
+    },
+    {
+      "id": "pubeasy",
+      "name": "PubEasy",
+      "section": "Ordering systems",
+      "website": "https://info.pubeasy.com/",
+      "description": "A web-based service for checking price and availability and placing trade orders."
+    }
+  ]
+}
