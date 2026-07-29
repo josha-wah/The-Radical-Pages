@@ -131,7 +131,7 @@
       "type": "platforms-distributors",
       "country": "International",
       "website": "https://uk.bookshop.org/",
-      "summary": "An online bookselling platform included to test platform classification and topic search.",
+      "summary": "An online book selling platform included to test platform classification and topic search.",
       "overview": "This simplified record helps test relationships between sales platforms, independent bookshops and publishers.",
       "specialties": ["Online bookselling", "Independent bookshops"],
       "distribution": ["Online platform", "Affiliate sales"],
