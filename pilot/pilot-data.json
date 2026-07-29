@@ -1,29 +1,301 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "directory": {
+    "title": "The Radical Pages",
+    "subtitle": "Open publishing infrastructure",
+    "intro": "An open directory of publishers, distributors, ordering systems and publishing infrastructure. Use the pilot to test category browsing, full-directory search, filters, table and list views, and individual entry pages.",
+    "pilot_notice": "Expanded pilot: this content is simplified interface-testing data and should not yet be treated as a verified public directory.",
+    "search_placeholder": "Search organisations, categories or topics…",
+    "source_url": "https://github.com/josha-wah/The-Radical-Pages",
+    "contribute_url": "https://github.com/josha-wah/The-Radical-Pages/issues",
+    "links": [
+      {
+        "title": "About the directory",
+        "text": "Read the scope and purpose of The Radical Pages.",
+        "url": "https://github.com/josha-wah/The-Radical-Pages#introduction"
+      },
+      {
+        "title": "Methodology",
+        "text": "Review how organisations are grouped and described.",
+        "url": "https://github.com/josha-wah/The-Radical-Pages"
+      },
+      {
+        "title": "Contribute",
+        "text": "Suggest an addition, correction or structural improvement.",
+        "url": "https://github.com/josha-wah/The-Radical-Pages/issues"
+      },
+      {
+        "title": "View source data",
+        "text": "Open the repository that supplies this pilot.",
+        "url": "https://github.com/josha-wah/The-Radical-Pages"
+      }
+    ]
+  },
+  "types": [
+    {
+      "id": "ordering-systems",
+      "name": "Ordering systems",
+      "description": "Systems and services used by booksellers and institutions to search for and order books.",
+      "order": 1
+    },
+    {
+      "id": "platforms-distributors",
+      "name": "Platforms and distributors",
+      "description": "Wholesalers, distributors and platforms that connect publishers, booksellers and readers.",
+      "order": 2
+    },
+    {
+      "id": "independent-publishers",
+      "name": "Independent publishers",
+      "description": "Independent, radical and specialist publishers working outside the largest corporate groups.",
+      "order": 3
+    },
+    {
+      "id": "university-publishers",
+      "name": "University publishers",
+      "description": "University presses and academic publishers associated with higher-education institutions.",
+      "order": 4
+    },
+    {
+      "id": "conglomerates",
+      "name": "Conglomerates and multinational corporations",
+      "description": "Large publishing groups and multinational media corporations with multiple divisions and imprints.",
+      "order": 5
+    }
+  ],
   "entries": [
+    {
+      "id": "pubeasy",
+      "name": "PubEasy",
+      "type": "ordering-systems",
+      "country": "International",
+      "website": "https://info.pubeasy.com/",
+      "summary": "A web-based service for checking book information and placing trade orders.",
+      "overview": "This pilot record demonstrates an ordering-system profile. It is included to test category pages, search, filtering and external links.",
+      "specialties": ["Trade ordering", "Bibliographic data"],
+      "distribution": ["Online platform"],
+      "notes": "Pilot wording only; verify all operational details before publication.",
+      "language": "English",
+      "related_ids": ["gardners", "ingram-content-group"],
+      "status": "active"
+    },
+    {
+      "id": "batchline",
+      "name": "BatchLine",
+      "type": "ordering-systems",
+      "country": "United Kingdom",
+      "website": "https://www.nielsenbook.co.uk/",
+      "summary": "A sample UK ordering and bibliographic-data entry for interface testing.",
+      "overview": "The record exists primarily to ensure the ordering-systems archive contains multiple results and can be filtered by country and speciality.",
+      "specialties": ["Trade ordering", "Bibliographic data"],
+      "distribution": ["Online platform"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["pubeasy"],
+      "status": "active"
+    },
+    {
+      "id": "gardners",
+      "name": "Gardners",
+      "type": "platforms-distributors",
+      "city": "Eastbourne",
+      "country": "United Kingdom",
+      "website": "https://www.gardners.com/",
+      "summary": "A UK book wholesaler and distributor represented here with simplified pilot data.",
+      "overview": "This record tests platform and distributor pages, country filtering and relationships to publishers and ordering systems.",
+      "specialties": ["Wholesale", "Bookseller supply"],
+      "distribution": ["Wholesale", "Trade accounts"],
+      "notes": "Pilot wording only; commercial terms are not represented.",
+      "language": "English",
+      "related_ids": ["pubeasy", "pluto-press", "manchester-university-press"],
+      "status": "active"
+    },
+    {
+      "id": "ingram-content-group",
+      "name": "Ingram Content Group",
+      "type": "platforms-distributors",
+      "country": "United States",
+      "website": "https://www.ingramcontent.com/",
+      "summary": "A large publishing-services and distribution organisation used here as pilot data.",
+      "overview": "The entry demonstrates searching by distribution, international scope and related organisations.",
+      "specialties": ["Distribution", "Print on demand", "Publishing services"],
+      "distribution": ["Wholesale", "Print on demand", "International distribution"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["pubeasy", "verso-books", "duke-university-press"],
+      "status": "active"
+    },
+    {
+      "id": "bookshop-org",
+      "name": "Bookshop.org",
+      "type": "platforms-distributors",
+      "country": "International",
+      "website": "https://uk.bookshop.org/",
+      "summary": "An online bookselling platform included to test platform classification and topic search.",
+      "overview": "This simplified record helps test relationships between sales platforms, independent bookshops and publishers.",
+      "specialties": ["Online bookselling", "Independent bookshops"],
+      "distribution": ["Online platform", "Affiliate sales"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["gardners", "freedom-press"],
+      "status": "active"
+    },
     {
       "id": "freedom-press",
       "name": "Freedom Press",
-      "section": "Independent publishers",
+      "type": "independent-publishers",
+      "city": "London",
+      "country": "United Kingdom",
       "website": "https://freedompress.org.uk/",
-      "description": "An updated description."
+      "summary": "An anarchist publisher, bookshop and newspaper based in London.",
+      "overview": "This expanded pilot profile demonstrates the individual-entry layout, related records, specialities and distribution information.",
+      "specialties": ["Anarchism", "Political history", "Activism"],
+      "distribution": ["Direct", "Bookshop.org", "Wholesale"],
+      "notes": "Pilot wording only; the eventual directory record should be researched and cited.",
+      "established": "1886",
+      "language": "English",
+      "related_ids": ["ak-press", "pm-press", "bookshop-org"],
+      "status": "active"
     },
     {
       "id": "ak-press",
       "name": "AK Press",
-      "section": "Independent publishers",
+      "type": "independent-publishers",
+      "city": "Oakland",
+      "country": "United States",
       "website": "https://www.akpress.org/",
-      "description": "A worker-run publisher and distributor specialising in anarchist and radical literature."
+      "summary": "A worker-run publisher and distributor specialising in anarchist and radical literature.",
+      "overview": "This pilot record is structured to test searches for anarchism, labour and political theory, as well as related-entry links.",
+      "specialties": ["Anarchism", "Labour", "Political theory"],
+      "distribution": ["Direct", "Independent distribution", "International distribution"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["freedom-press", "pm-press", "ingram-content-group"],
+      "status": "active"
     },
     {
-      "id": "pubeasy",
-      "name": "PubEasy",
-      "section": "Ordering systems",
-      "website": "https://info.pubeasy.com/",
-      "description": "A web-based service for checking price and availability and placing trade orders."
+      "id": "pm-press",
+      "name": "PM Press",
+      "type": "independent-publishers",
+      "country": "United States",
+      "website": "https://pmpress.org/",
+      "summary": "An independent publisher of radical books and periodicals.",
+      "overview": "The record provides another anarchism-related result so live suggestions and filtered results can be evaluated.",
+      "specialties": ["Anarchism", "Social movements", "Culture"],
+      "distribution": ["Direct", "Independent distribution"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["freedom-press", "ak-press"],
+      "status": "active"
     },
     {
-  "name": "Broken test record"
+      "id": "pluto-press",
+      "name": "Pluto Press",
+      "type": "independent-publishers",
+      "city": "London",
+      "country": "United Kingdom",
+      "website": "https://www.plutobooks.com/",
+      "summary": "An independent publisher represented with simplified political and social-science pilot data.",
+      "overview": "This entry helps test UK filtering and searches for politics, economics and social movements.",
+      "specialties": ["Politics", "Economics", "Social movements"],
+      "distribution": ["Direct", "Gardners"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["verso-books", "gardners"],
+      "status": "active"
+    },
+    {
+      "id": "verso-books",
+      "name": "Verso Books",
+      "type": "independent-publishers",
+      "city": "London",
+      "country": "United Kingdom",
+      "website": "https://www.versobooks.com/",
+      "summary": "An independent publisher included to test political-theory and international-distribution searches.",
+      "overview": "The profile is deliberately concise and exists to exercise search ranking, list/table switching and relations.",
+      "specialties": ["Political theory", "History", "Culture"],
+      "distribution": ["Direct", "Ingram", "International distribution"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["pluto-press", "ingram-content-group"],
+      "status": "active"
+    },
+    {
+      "id": "duke-university-press",
+      "name": "Duke University Press",
+      "type": "university-publishers",
+      "city": "Durham",
+      "country": "United States",
+      "website": "https://www.dukeupress.edu/",
+      "summary": "A university press included as sample academic-publishing data.",
+      "overview": "This record tests the university-publisher category and searches for cultural studies and political theory.",
+      "specialties": ["Cultural studies", "Political theory", "Academic publishing"],
+      "distribution": ["Direct", "Ingram"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["manchester-university-press", "ingram-content-group"],
+      "status": "active"
+    },
+    {
+      "id": "manchester-university-press",
+      "name": "Manchester University Press",
+      "type": "university-publishers",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "website": "https://manchesteruniversitypress.co.uk/",
+      "summary": "A UK university press included to test academic-publisher pages and UK filters.",
+      "overview": "The entry demonstrates how university presses appear alongside other organisation types without requiring a separate post type.",
+      "specialties": ["Academic publishing", "History", "Politics"],
+      "distribution": ["Direct", "Gardners"],
+      "notes": "Pilot wording only.",
+      "language": "English",
+      "related_ids": ["duke-university-press", "gardners"],
+      "status": "active"
+    },
+    {
+      "id": "penguin-random-house",
+      "name": "Penguin Random House",
+      "type": "conglomerates",
+      "country": "International",
+      "website": "https://www.penguinrandomhouse.com/",
+      "summary": "A large international publishing group included to test the conglomerate category.",
+      "overview": "This simplified entry tests broad corporate categories, international location filtering and relationship panels.",
+      "specialties": ["General publishing", "Commercial publishing"],
+      "distribution": ["International distribution", "Wholesale"],
+      "notes": "Pilot wording only; divisions, ownership and imprints are intentionally omitted.",
+      "language": "Multiple",
+      "related_ids": ["hachette-livre", "harpercollins"],
+      "status": "active"
+    },
+    {
+      "id": "hachette-livre",
+      "name": "Hachette Livre",
+      "type": "conglomerates",
+      "country": "International",
+      "website": "https://www.hachette.com/",
+      "summary": "A multinational publishing group represented with simplified pilot information.",
+      "overview": "The record exists to test conglomerate browsing and relationships among large publishing groups.",
+      "specialties": ["General publishing", "Commercial publishing"],
+      "distribution": ["International distribution", "Wholesale"],
+      "notes": "Pilot wording only.",
+      "language": "Multiple",
+      "related_ids": ["penguin-random-house", "harpercollins"],
+      "status": "active"
+    },
+    {
+      "id": "harpercollins",
+      "name": "HarperCollins",
+      "type": "conglomerates",
+      "country": "International",
+      "website": "https://www.harpercollins.com/",
+      "summary": "A large publishing company included to complete the conglomerate pilot set.",
+      "overview": "This record is deliberately brief and exists to test pagination, table rows and related entries.",
+      "specialties": ["General publishing", "Commercial publishing"],
+      "distribution": ["International distribution", "Wholesale"],
+      "notes": "Pilot wording only.",
+      "language": "Multiple",
+      "related_ids": ["penguin-random-house", "hachette-livre"],
+      "status": "active"
     }
   ]
 }
